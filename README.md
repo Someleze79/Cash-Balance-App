@@ -1,4 +1,4 @@
-# Cash Balance App
+# 💰 Cash Balance App
 
 A simple and interactive *Cash Balance Application* built with *React*, designed to simulate basic account balance management. The app allows users to perform common financial operations such as deposits, withdrawals, applying interest, and deducting charges, with all updates reflected in real time.
 
