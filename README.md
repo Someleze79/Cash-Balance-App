@@ -38,8 +38,7 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 4. Start the application
 - npm start
 
-### This app will run at -- http://localhost:3000
-```bash
+# This app will run at -- http://localhost:3000
 
 ---
 
