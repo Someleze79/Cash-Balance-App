@@ -40,9 +40,10 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 
 ### This app will run at -- http://localhost:3000
 ```bash
+
 ---
 
-## 🧪 How to Use
+## 🧪 How to use
 
 1. Enter an amount in the input field
 2. Choose an action:
