@@ -6,13 +6,13 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 
 ## 🚀 Features
 
-- Deposit Funds – Add money to the balance
-- Withdraw Funds – Remove money from the balance
-- Add Interest – Apply interest to the current balance
-- Apply Charges – Deduct service or transaction charges
-- Real-Time Balance Updates – Balance updates instantly after each action
-- Reusable Components – Shared buttons and inputs for consistent UI
-- Global State Management – Centralized balance logic using React state management
+- *Deposit Funds* – Add money to the balance
+- *Withdraw Funds* – Remove money from the balance
+- *Add Interest* – Apply interest to the current balance
+- *Apply Charges* – Deduct service or transaction charges
+- *Real-Time Balance Updates* – Balance updates instantly after each action
+- *Reusable Components* – Shared buttons and inputs for consistent UI
+- *Global State Management* – Centralized balance logic using React state management
 
 ---
 
@@ -22,6 +22,18 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 - *useContext / useReducer* – Global state management
 - *JavaScript (ES6+)* – Application logic
 - *CSS* – Styling and layout
+
+---
+
+### 🧪 How to use
+
+1. Enter an amount in the input field
+2. Choose an action:
+- Deposit
+- Withdraw
+- Add Interest
+- Apply Charges
+3. View the updated balance instantly
 
 ---
 
@@ -41,15 +53,3 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 - npm start
 
 # This app will run at -- http://localhost:3000
-
----
-
-### 🧪 How to use
-
-1. Enter an amount in the input field
-2. Choose an action:
-- Deposit
-- Withdraw
-- Add Interest
-- Apply Charges
-3. View the updated balance instantly
