@@ -25,7 +25,7 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 
 ---
 
-### 🧪 How to use
+## 🧪 How to use
 
 1. Enter an amount in the input field
 2. Choose an action:
