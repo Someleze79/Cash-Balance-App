@@ -39,7 +39,7 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 - npm start
 
 ### This app will run at -- http://localhost:3000
-
+```bash
 ---
 
 ## 🧪 How to Use
