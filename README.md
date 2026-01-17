@@ -22,6 +22,7 @@ A simple and interactive *Cash Balance Application* built with *React*, designed
 - *useContext / useReducer* – Global state management
 - *JavaScript (ES6+)* – Application logic
 - *CSS* – Styling and layout
+- *HTML* – Application structure
 
 ---
 
